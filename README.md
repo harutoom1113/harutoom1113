@@ -1,6 +1,6 @@
 # harutoom1113
 
-<h1 align="center">こんにちは 👋 はるとです</h1>
+<h1 align="center">はるとです</h1>
 <h3 align="center">フロントエンドと Flutter が好きなエンジニア志望の学生です 🇯🇵</h3>
 
 - 🌱 現在は **Flutter** を中心に勉強しています
